@@ -1,6 +1,6 @@
 ast
 cv2==3.4.2
-imgaug==0.2.6
+imgaug==0.4.0
 imutils==0.5.1
 json==2.0.9
 matplotlib==2.2.2
