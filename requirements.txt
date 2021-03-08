@@ -1,7 +1,7 @@
 ast
 cv2==3.4.2
 imgaug==0.2.6
-imutils==0.5.1
+imutils==0.5.4
 json==2.0.9
 matplotlib==2.2.2
 numpy==1.15.2
